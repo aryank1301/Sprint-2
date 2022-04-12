@@ -1,1 +1,1 @@
-# Sprint-2
+# Informatica Project
