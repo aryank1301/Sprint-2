@@ -1,5 +1,9 @@
 # 
-The PowerCenter Client is an application used to define sources and targets, build mappings and mapplets with the transformation logic, and create workflows to run the mapping logic. The PowerCenter Client connects to the repository through the PowerCenter Repository Service to modify repository metadata.
+Informatica PowerCenter is an ETL tool that is used to enterprise extract, transform, and load the data from the sources. We can build enterprise data warehouses with the help of the Informatica PowerCenter. The Informatica PowerCenter produces the Informatica Crop.
+
+The Informatica PowerCenter is extracting data from its source, transforming this data according to requirements, and loading this data into a target data warehouse.
+
+The main components of Informatica PowerCenter are its client tools, server, repository, and repository server. Both the PowerCenter server and repository server make up the ETL layer, which is used to complete the ETL processing.
 
 
 STEPS INVOLVED
