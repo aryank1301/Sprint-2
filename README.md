@@ -16,5 +16,5 @@ STEPS INVOLVED
 6. Create a workflow in workflow manager.
 7. After starting workflow, monitor workflow in workflow monitor.
 
-Note:- 
+ 
 
